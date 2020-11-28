@@ -1,0 +1,3 @@
+from my_package_week_3.sum_of_int_float_numbers import *
+from my_package_week_3.sum_of_all_even_odd_numbers import *
+from my_package_week_3.is_integer_keyboard_input import *
